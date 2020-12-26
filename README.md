@@ -2,7 +2,8 @@
 
 Added assignments and final project
 
-- Chapter 1: Gaussian Elimination
-- Chapter 2: Gram-Schmidt Orthogonalization
-- Chapter 3: Singular Value Decomposition
-- Chapter 4: Linear Programming
+- Chapter 2: Gaussian Elimination
+- Chapter 3: Gram-Schmidt Orthogonalization
+- Chapter 4: Singular Value Decomposition
+- Chapter 5: Linear Programming
+- Project: House Price Prediction
